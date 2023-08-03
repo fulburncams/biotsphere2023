@@ -1,1 +1,1 @@
-# biotsphere2023 repor for all python code,  pico code
+# biotsphere2023 repo for all python code,  pico code
